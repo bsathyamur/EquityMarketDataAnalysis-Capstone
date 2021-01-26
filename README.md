@@ -21,4 +21,4 @@ organized by date. It also needs to produce analytical results that support busi
 
 # Architecture diagram
 
-!(img)(https://github.com/bsathyamur/EquityMarketDataAnalysis-Capstone/blob/main/EMDA-Architecture%20Diagram.jpg)
+![img](https://github.com/bsathyamur/EquityMarketDataAnalysis-Capstone/blob/main/EMDA-Architecture%20Diagram.jpg)
